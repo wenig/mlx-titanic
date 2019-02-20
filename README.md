@@ -1,1 +1,1 @@
-# mlx-titanic
+# Machine Learning Explainability on Titanic Dataset
